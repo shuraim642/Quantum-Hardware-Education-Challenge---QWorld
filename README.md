@@ -4,6 +4,14 @@ Womanium Quantum Hackathon 2022
 
 # Module Name: QGold
 ## Team Name: Supremacy
+
+### Team Members:
+ - Muhammad Shuraim
+ - Arpi Kundu
+ - Nikhil Tiwari
+ - Monika
+
+## Our Plan:
 In this module, we have tried to document the physical realization of Qubit kind and the Quantum Operations/Gates to process information. We have considered the following kinds of qubits to delineates the physical realization. 
 
 [Physical Realization of Qubits](Physical_Realization_of_Qubits.ipynb)&nbsp;
