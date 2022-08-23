@@ -7,9 +7,9 @@ Womanium Quantum Hackathon 2022
 
 ### Team Members:
  - Muhammad Shuraim
- - Arpi Kundu
+ - Arpi Kundu (Discord ID: 2276, kunduarpita96@gmail.com)
  - Nikhil Tiwari
- - Monika
+ - Monika ()
 
 ## Our Plan:
 In this module, we have tried to document the physical realization of Qubit kind and the Quantum Operations/Gates to process information. We have considered the following kinds of qubits to delineates the physical realization. 
