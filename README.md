@@ -32,7 +32,7 @@ The main aim behind this is just to make the studnets of Quantum Computing, well
     - High School Physics and Mathematics
     - QBronze
     - QSilver
-    - Quantum Mechanics-I
+    - Quantum Mechanics-I (overview not mathematically deep)
     - Electronic Circuit Designs (for Superconducting Quantum Computing)
     - Polarization Optics (for Photonics Quantum Computing)
 
