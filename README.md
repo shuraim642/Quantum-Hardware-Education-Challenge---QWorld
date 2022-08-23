@@ -6,10 +6,10 @@ Womanium Quantum Hackathon 2022
 ## Team Name: Supremacy
 
 ### Team Members:
- - Muhammad Shuraim
+ - Muhammad Shuraim (Discord ID: Shuraim#9122, Github ID: shuraim642, Email: 92muhammad642@gmail.com)
  - Arpi Kundu (Discord ID: 2276, kunduarpita96@gmail.com)
- - Nikhil Tiwari
- - Monika ()
+ - Nikhil Tiwari (Discord ID: Nikk#8680, Email: tiwarinikhil0@gmail.com)
+ - Monika (Discord ID: monikabishnoi29, Github ID: monika#2437, Email: monikabishnoimonikabishnoi14@gmail.com)
 
 ## Our Plan:
 In this module, we have tried to document the physical realization of Qubit kind and the Quantum Operations/Gates to process information. We have considered the following kinds of qubits to delineates the physical realization. 
