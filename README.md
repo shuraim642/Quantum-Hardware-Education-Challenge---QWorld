@@ -37,7 +37,7 @@ The main aim behind this is just to make the studnets of Quantum Computing, well
     - Polarization Optics (for Photonics Quantum Computing)
 
 ## Yet-To-Be-Done Task:
-Of course as always, there is a larger list of yet-to-be-done than what have we done yet. We are considering to expand this module to further Quantum Computers with the pedagogical perspectives to make the students/enthusiats of Quantum Computing Technology, well familiarized and to tell the students what qubits are represented in Hilbert Space is actually mapping something in real time and space. Following are the Quantum Computers to which we want to expand our module:
+Of course as always, there is a larger list of yet-to-be-done than what have we done yet. We were thinking to include the video materials that should describe the  physical qubit and logical gates but due to short time and lazy teammates, we are stuck only with this documeneted material. Looks like I am the only one working something and irony is: at the eleventh hour, they didn't respond. Me exploding frustation here, LoL. Coming to main point, we are or "I am" considering to expand this module to further Quantum Computers with the pedagogical perspectives to make the students/enthusiats of Quantum Computing Technology, well familiarized and to tell the students what qubits are represented in Hilbert Space is actually mapping something in real time and space. Following are the Quantum Computers to which we want to expand our module:
  - Trapped Ion Quantum Computers
  - Silicon Quantum Dots
  - Neutral Atom Quantum Computers
