@@ -17,7 +17,7 @@ In this module, we have tried to document the physical realization of Qubit kind
 [Physical Realization of Qubits](Physical_Realization_of_Qubits.ipynb)&nbsp;
 
 1) Superconducting Quantum Computers
-2) Photonics Quantum Computing
+2) Photonics Quantum Computers
 
 [Physical Realization of Quantum Logical Operation](Physical_Realization_of_Operations.ipynb)
 
