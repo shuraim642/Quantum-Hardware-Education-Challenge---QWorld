@@ -4,6 +4,7 @@ Womanium Quantum Hackathon 2022
 
 # Module Name: QGold
 ## Team Name: Supremacy
+###Team captain: Muhammad Shuraim
 ### Name of the Pitch Presenter on Demo Day? Arpi Kundu
 
 ### Team Members:
